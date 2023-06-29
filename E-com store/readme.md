@@ -1,1 +1,2 @@
-
+This dashboard is from Kaggle dataset E-com store https://www.kaggle.com/carrie1/ecommerce-data
+The purpose of the dashboard was to build a system of key business metrics, as well as an assessment of the change in these metrics in the dynamics of 1 and 2 months ago. Also a little information detailing the daily increase in revenue and the proportion of the client base in relation to new and old customers.
