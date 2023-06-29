@@ -1,1 +1,1 @@
-
+This dashboard with dataset about some process where applications come in, in parallel these applications are synchronized with another database to update the information within these applications.  The main task is to monitor that all incoming tickets are covered by updates and update rate increases.
